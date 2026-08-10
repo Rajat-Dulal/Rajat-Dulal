@@ -247,18 +247,18 @@ Developed a modular User Behaviour Tracking System covering calendar tasks, remi
 
 </div> -->
 
-<br/>
+<!-- <br/>
 
 ## ⟡ GitHub Analytics
 
-<div align="center">
+<div align="center"> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=rajat-dulal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&icon_color=9D4EDD&text_color=C9C9C9&count_private=true" width="49%"/> -->
-<img src="https://streak-stats.demolab.com/?user=rajat-dulal&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=B39DFF&currStreakLabel=B39DFF" width="49%"/>
+<!-- <img src="https://streak-stats.demolab.com/?user=rajat-dulal&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=B39DFF&currStreakLabel=B39DFF" width="49%"/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-dulal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&text_color=C9C9C9" width="49%"/> -->
 
-</div>
+<!-- </div> -->
 
 <!-- <br/>
 
@@ -270,7 +270,7 @@ Developed a modular User Behaviour Tracking System covering calendar tasks, remi
 
 </div> -->
 
-<br/>
+<!-- <br/>
 
 ## ⟡ Contribution Activity
 
@@ -278,7 +278,7 @@ Developed a modular User Behaviour Tracking System covering calendar tasks, remi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-dulal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B39DFF&line=9D4EDD&point=C9A9FF" width="100%"/>
 
-</div>
+</div> -->
 
 <!-- <br/>
 
